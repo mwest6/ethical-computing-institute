@@ -9,6 +9,32 @@ coursepage: false
 ## “Create all the happiness you are able to create; remove all the misery you are able to remove. Every day will allow you, --will invite you to add something to the pleasure of others, --or to diminish something of their pains.”
 ### ― Jeremy Bentham, *Advice to a young girl*
 
+Post 7 
+=====
+March 7, 2019 
+### A summary on computer assisted warfare (Maggie) 
+Computer assisted warfare is an area in which computing and the internet become the main weapon. This could entail anything from the use of robots in place of humans on the battlefield, to the cyber-warfare and netwar. The discussion of war is relevant to the Utilitarian framework due to the extreme pain and consequences that come from war, and computer assisted warfare is simply new frontier of war time technology. When it comes to calculating the Utilitarian stance on computer assisted warfare, it is important to remember that the Utilitarian framework only maximization of resulting pleasure, and not about the means at which it was achieved. This makes it difficult to analyze whether or not all aspects of computer assisted warfare are ethical or not, being that many of these methods have not been utilized in order to determine the resulting pain and pleasure. Ultimately, I think the determination of whether the use of computers as a weapon in war is ethical from a Utilitarian standpoint can only be determined on a case by case basis, at this point in time. For example, political groups such as ISIS have been using social media platforms as a means to spread information, and gain a digital advantage against opponents, also referred to as “netwar.” ISIS has employed powerful online marketing, bots to convince the public of anything they want them to believe, making the public easier to manipulate and perpetuating the us v them mentality.  This tactic creates pain and fear for the majority of the public. Additionally, ISIS will often flood media outlets with **false** information which has an unpleasurable result of decreasing the credibility of all sources on social media. For this reason, netwar is unethical. In a different example, Ronald C Arkin has been conducting research on the ethical use of robots to carry and use weapons in a war situation. Because completely autonomous robots have never been used in combat, it’s impossible to be certain about who this would benefit and who it would hurt in the end. Ideally, less people would be injured or die in war, but there is also the fear that the robots will “run amok” and harm a lot of people. But overall, I believe the pros of saving lives and making battlefield decisions more humane bring more pleasure than the potential fear that robots will take over. So therefore, this instance of computer assisted warfare is ethical for Utilitarians. 
+### A summary on diversity in the technology sector (Jonny Xu)
+Diversity in the technology sector is a problem related to the disproportionately low representation of women and other minorities. This is important to our framework because our utilitarianism is fundamentally concerned with the greatest good for the greatest number of people. To that end, utilitarianism considers demands the greatest number of all people to all be treated equally. A lack of diversity in technology is unethical as it prevents access to the industry by deserving individuals who happen to be in the minority. Therefore, utilitarianism states that individuals and society as a whole must do more to call for equal representation and consideration for opportunities in the technology sector. There are two basic attributes of utilitarianism that support this notion. First, as mentioned previously, utilitarianism clearly states that the happiness of all individuals is equal. The current lack of diversity is catering towards the happiness of male workers at the expense of minorities. This is immoral. Second, in a similar vein, a lack of diversity does not bring the greatest number of good for the greatest number of people. It clearly brings maximum good for a subset of people. For these two reasons of utilitarianism determines the current lack of diversity as highly unethical.
+ ### A summary on autonomous vehicles (Ivy)
+Ever since the advent of assembly lines, automation has become a more and more popular choice for corporations. Nowadays, you can hardly walk into any factories and not encountering any forms of automation involved in the production process. The problem of job automation is that on one hand it increases efficiency and effectiveness, and on the other hand, machines and robots take away humans’ jobs so that these people become unemployed. The problem of job automation is important to Utilitarianism because Utilitarians care about the happiness of the society overall and job automation affects people’s happiness. Utilitarians would support job automation in general since being more effective and efficient is directly related to being happier in most cases. So the overall utility of the society would increase. The first piece of evidence is that with the help of robots, factories can produce more products in a given time and would produce more profit so that will make every shareholder of the company happier. The second piece of evidence is that robots are doing many jobs that are laborious and repetitive. Humans who are set free by these robots will also be happier since they can now engage in other jobs that are more interesting. 
+### Algorithm to analyze an ethical decision (Ethan and Beatriz)
+The inputs of the algorithm are: decision being analyzed and context in which decision is being made (i.e. location, people involved and any other details necessary). The algorithm assumes that given the context of the decision, a list of people affected can be compiled. If decision affects a large, unquantifiable number of people, make a rough estimate (i.e. ~2,000 employees in a company, ~100,000 people in a town, etc.).
+Algorithm:
+Make a list of every person that can in some way be affected by the decision. 
+Let effect = 0
+For every person identified in (1):
+If the decision is going to increase the person’s overall happiness:
+effect = effect + 1
+If the decision is going to decrease the person’s overall happiness:
+effect = effect - 1
+If the decision doesn’t affect the person’s overall happiness, continue.
+If effect > 0:
+Output: Probably ethical
+If effect < 0:
+Output: Probably not ethical
+
+
 Post 1
 ======
 January 24, 2019
